@@ -31,7 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-'''
+```
 book.html
 
 <html>
@@ -42,7 +42,6 @@ book.html
     </head>
     <body>
         <div class="page">
-            
             <div class="insights">
                 SEC Insights
             </div>
@@ -54,7 +53,6 @@ book.html
             </div>
             <div class="subtitle">
               Transforming Learing Through Innovation, Accessibility, and personalized Experience.<br>
-              
             </div>
             <div class="edit">
             UNIQUE EDITION
@@ -154,7 +152,8 @@ body{
     background-size: 80px;
 
 }
-'''
+
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-10-07 134605.png>)
